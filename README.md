@@ -49,7 +49,7 @@ This program is a command-line based Student Record System written in C. It allo
 ### Compilation
 To compile the program, use the following command in the terminal:
 ```bash
-gcc -o student_record_system student_record_system.c
+gcc -o student_record_system main.c
 ```
 
 ### Execution
